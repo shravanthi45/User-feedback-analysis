@@ -1,9 +1,8 @@
 📊 User Feedback Dashboard – Power BI
+
 📌 Project Description
 
-The User Feedback Dashboard is an interactive data visualization project built using Power BI to analyze and monitor customer feedback effectively. This dashboard helps in understanding user satisfaction, identifying common issues, and deriving actionable insights to improve products or services.
-
-It consolidates feedback data from various sources and presents it in a visually appealing and easy-to-understand format, enabling stakeholders to make data-driven decisions.
+The User Feedback Dashboard is an interactive data visualization project where the data is collected through scrapping the data in web browser using instant scrapper built using Power BI to analyze and monitor customer feedback effectively. This dashboard helps in understanding user satisfaction, identifying common issues, and deriving actionable insights to improve products or services.It consolidates feedback data from various sources and presents it in a visually appealing and easy-to-understand format, enabling stakeholders to make data-driven decisions.
 
 🎯 Objectives
 Analyze customer feedback trends over time
@@ -25,7 +24,8 @@ Power BI Desktop (.pbix)
 Data Cleaning & Transformation (Power Query)
 Data Modeling (Relationships, Measures using DAX)
 Visualization (Charts, Cards, KPIs, Tables)
-📊 Key Insights (Example – Customize based on your dashboard)
+
+📊 Key Insights
 Majority of users provided positive feedback
 Negative feedback is mainly related to specific categories (e.g., service delays)
 Feedback volume peaks during certain periods
