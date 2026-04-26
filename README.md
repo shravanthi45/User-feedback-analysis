@@ -1,4 +1,4 @@
-📊 User Feedback Dashboard – Power BI
+📊 User Feedback Analytics and Sentiment Insights Dashboard – Power BI
 
 📌 Project Description
 
