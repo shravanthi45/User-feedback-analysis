@@ -31,7 +31,7 @@ Visualization (Charts, Cards, KPIs, Tables)
 📊 Key Insights
 
 Majority of users provided positive feedback
-Negative feedback is mainly related to specific categories (e.g., service delays)
+Negative feedback is mainly related to specific categories (e.g, service delays)
 Feedback volume peaks during certain periods
 Improvement areas identified through recurring comments
 
