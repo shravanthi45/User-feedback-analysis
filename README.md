@@ -44,7 +44,7 @@ Interact with visuals for deeper analysis
 
 💡 Future Improvements
 
-Integrate real-time feedback data
+Integrate mysql database
 Add advanced sentiment analysis using NLP
 Include predictive analytics for trend forecasting
 Deploy dashboard to Power BI Service for sharing
