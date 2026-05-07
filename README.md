@@ -24,9 +24,8 @@ Provide actionable insights for business improvement
 
 🛠️ Tools & Technologies Used
 
-Power BI Desktop (.pbix)
 Data Cleaning & Transformation (Power Query)
-Visualization (Charts, Cards, KPIs, Tables)
+Power BI Desktop (.pbix),Visualization (Charts, Cards, KPIs, Tables)
 
 📊 Key Insights
 
@@ -44,7 +43,6 @@ Interact with visuals for deeper analysis
 
 💡 Future Improvements
 
-Integrate mysql database
 Add advanced sentiment analysis using NLP
 Include predictive analytics for trend forecasting
 Deploy dashboard to Power BI Service for sharing
